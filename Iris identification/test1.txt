@@ -1,0 +1,32 @@
+6.3  3.4  5.6  2.4    Iris-setosa
+7.2  3  5.8  1.6    Iris-setosa
+6.5  3  5.2  2    Iris-setosa
+6.3  2.7  4.9  1.8    Iris-setosa
+6.3  2.7  4.9  1.8    Iris-setosa
+6.3  2.7  4.9  1.8    Iris-setosa
+5.9  3  5.1  1.8    Iris-setosa
+6  3  4.8  1.8    Iris-setosa
+7.7  2.8  6.7  2    Iris-setosa
+6.7  3.3  5.7  2.1    Iris-setosa
+6.3  2.8  5.1  1.5    Iris-setosa
+6.9  3.1  5.1  2.3    Iris-setosa
+6.7  3.3  5.7  2.5    Iris-setosa
+6.4  3.1  5.5  1.8    Iris-setosa
+7.7  2.8  6.7  2    Iris-setosa
+6  3  4.8  1.8    Iris-setosa
+5.6  2.8  4.9  2    Iris-setosa
+5.9  3  5.1  1.8    Iris-setosa
+5.6  2.8  4.9  2    Iris-setosa
+6.8  3.2  5.9  2.3    Iris-setosa
+7.2  3  5.8  1.6    Iris-setosa
+6.9  3.1  5.4  2.1    Iris-setosa
+7.2  3.2  6  1.8    Iris-setosa
+6.1  2.6  5.6  1.4    Iris-setosa
+6.9  3.2  5.7  2.3    Iris-setosa
+7.2  3  5.8  1.6    Iris-setosa
+7.2  3  5.8  1.6    Iris-setosa
+7.2  3.2  6  1.8    Iris-setosa
+6.9  3.2  5.7  2.3    Iris-setosa
+5.6  2.8  4.9  2    Iris-setosa
+误差数据有  5 个
+RMSE  :1.00861
